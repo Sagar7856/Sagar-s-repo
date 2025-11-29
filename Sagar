@@ -3,3 +3,5 @@ for i in range(100):
 print(i)
 ##This file have error
 ##
+if i==str:
+print("You r correct'")
